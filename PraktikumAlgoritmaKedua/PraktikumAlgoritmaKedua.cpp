@@ -46,7 +46,8 @@ void insertionsort() {
 	}
 }
 
-void display() {
+void display() 
+{
 	cout << endl;											//Menambahkan Baris Kosong 
 	cout << "===================" << endl;					//Output ke layar
 	cout << "Element Array yang telah tersusun" << endl;	//Output ke layar
