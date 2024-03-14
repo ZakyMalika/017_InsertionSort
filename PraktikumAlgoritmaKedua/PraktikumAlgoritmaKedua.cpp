@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int arr[9];
-int n;
+int  n;
 
 void input() {	//prosedur untuk input
 	while (true) {
